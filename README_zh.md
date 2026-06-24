@@ -21,14 +21,16 @@
 
 ## 安装
 
-1. 打开 Typora。
-2. 通过 `偏好设置` -> `外观` -> `打开主题文件夹` 打开主题目录。
-3. 将以下内容复制到主题文件夹中：
-   - `fuwari-light.css`
-   - `fuwari-assets/`
-4. 确保 `fuwari-light.css` 直接位于 Typora 主题文件夹内，`fuwari-assets/` 文件夹也应直接位于同一文件夹内，以便导入路径正确解析。
-5. 重启 Typora。
-6. 在 `主题` 菜单中选择 `Fuwari Light`。
+### 从 Release 安装（推荐）
+
+1. 从 [Releases](https://github.com/Caph-dev/typora-fuwari-theme/releases/tag/v1.0.0) 下载 `fuwari-light-v1.0.0.zip`。
+2. 打开 Typora → `偏好设置` → `外观` → `打开主题文件夹`。
+3. 解压 zip 文件，将 `fuwari-light.css` 和 `fuwari-assets/` 复制到主题文件夹中。
+4. 重启 Typora，在 `主题` 菜单中选择 `Fuwari Light`。
+
+### 从源码安装
+
+克隆或下载本仓库，然后将 `fuwari-light.css` 和 `fuwari-assets/` 复制到 Typora 主题文件夹。
 
 macOS 上 Typora 主题文件夹的典型路径：
 

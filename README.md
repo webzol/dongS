@@ -21,14 +21,16 @@ The theme ports Fuwari's visual language to Typora as plain CSS:
 
 ## Installation
 
-1. Open Typora.
-2. Open the theme folder from `Preferences` -> `Appearance` -> `Open Theme Folder`.
-3. Copy these items into that theme folder:
-   - `fuwari-light.css`
-   - `fuwari-assets/`
-4. Make sure `fuwari-light.css` is directly inside the Typora theme folder. The `fuwari-assets/` folder should also be directly inside that same folder so the import resolves.
-5. Restart Typora.
-6. Select `Fuwari Light` from the `Themes` menu.
+### From Release (recommended)
+
+1. Download `fuwari-light-v1.0.0.zip` from [Releases](https://github.com/Caph-dev/typora-fuwari-theme/releases/tag/v1.0.0).
+2. Open Typora → `Preferences` → `Appearance` → `Open Theme Folder`.
+3. Extract the zip and copy `fuwari-light.css` and `fuwari-assets/` into the theme folder.
+4. Restart Typora and select `Fuwari Light` from the `Themes` menu.
+
+### From source
+
+Clone or download this repository, then copy `fuwari-light.css` and `fuwari-assets/` into the Typora theme folder.
 
 Typical Typora theme folder on macOS:
 
