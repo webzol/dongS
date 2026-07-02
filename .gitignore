@@ -1,3 +1,10 @@
 fuwari-dark.css
 fuwari-light-dark-code.css
 test.md
+
+# 编辑器 / 工具配置
+.trae/
+
+# 分发包 / 归档(scp 部署用,不入库)
+*.zip
+*.rar
